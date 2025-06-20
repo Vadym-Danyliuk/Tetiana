@@ -1,11 +1,11 @@
 {
-  "name": "test-web",
+  "name": "Tetiana",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/test-web/",
+    "build": "vite build --base=/Tetiana/",
     "preview": "vite preview"
   },
   "devDependencies": {
